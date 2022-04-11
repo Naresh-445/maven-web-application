@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>nexus</name>
-	      <url>http://52.66.240.36:8081/repository/suresh-relese/</url>
+	      <url>http://52.66.240.36:8081/repository/naresh-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>nexus</name>
-	      <url>http://52.66.240.36:8081/repository/suresh-snapshot/</url>
+	      <url>http://52.66.240.36:8081/repository/naresh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
