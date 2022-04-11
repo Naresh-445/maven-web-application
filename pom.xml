@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.240.36:8081/repository/naresh-release/</url>
+	      <url>http://52.66.240.36:8081/repository/suresh-relese/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository</name>
-	      <url>http://52.66.240.36:8081/repository/naresh-snapshot/</url>
+	      <url>http://52.66.240.36:8081/repository/suresh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
